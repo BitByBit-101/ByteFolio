@@ -75,4 +75,20 @@ portfolio/
 ├── vite.config.js
 └── README.md
 
+🚀 Getting Started
+To run this project locally:
+
+```txt
+# Clone the repository
+git clone https://github.com/your-username/bytefolio.git
+cd bytefolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Open in browser
+http://localhost:5173
 
