@@ -2,11 +2,12 @@
 Bytefolio is a modern portfolio website that blends creativity and technology. Featuring 3D elements, smooth scroll animations, and a polished design, it offers an interactive experience that showcases your work with impact.
 
 <h1 align="center">
-  🚀 Bytefolio — A Creative 3D Portfolio Experience
+  🚀 Bytefolio — A Creative Developer Portfolio Starter
 </h1>
 
 <p align="center">
-  <b>A modern, animated, and interactive portfolio built with React, Framer Motion, GSAP, Spline, and Tailwind CSS.</b>
+  <b>A polished, animated, and 3D-enhanced portfolio homepage to kickstart your personal site.</b><br/>
+  Built with React, Framer Motion, Spline, GSAP, and Tailwind CSS.
 </p>
 
 <p align="center">
@@ -23,8 +24,9 @@ Bytefolio is a modern portfolio website that blends creativity and technology. F
 
 ## 🌟 About Bytefolio
 
-**Bytefolio** is not just a portfolio—it's a creative digital experience designed to stand out. With a blend of **3D visual storytelling**, **scroll-based animations**, and **clean modern UI**, it allows creatives, developers, and designers to showcase their work in a playful yet impactful way.
+**Bytefolio** is a modern, responsive, and visually captivating **portfolio homepage template** designed for developers, creatives, and designers. Whether you're building a personal brand, job-hunting, or simply want a sleek digital presence — Bytefolio helps you start strong.
 
+It’s fun, engaging, and full of personality — featuring **3D visuals, fluid animations**, and clean, semantic code.
 Perfect for:
 - Frontend developers
 - UI/UX designers
@@ -91,3 +93,15 @@ npm run dev
 # Open in browser
 http://localhost:5173
 
+| Desktop View                                                | Mobile View                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------- |
+| ![Desktop](https://your-image-link.com/desktop-preview.png) | ![Mobile](https://your-image-link.com/mobile-preview.png) |
+
+🎥 Demo Video
+📽️ Watch it in action
+Feel the interaction, movement, and polish — ready to be yours.
+
+👤 Author
+Made with 💜 by Bhumika
+🌐 yourportfolio.com
+🐙 GitHub • 💼 LinkedIn
