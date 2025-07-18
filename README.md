@@ -78,7 +78,6 @@ portfolio/
 🚀 Getting Started
 To run this project locally:
 
-```txt
 # Clone the repository
 git clone https://github.com/your-username/bytefolio.git
 cd bytefolio
