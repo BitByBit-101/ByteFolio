@@ -80,34 +80,49 @@ Perfect for:
 
 ## 🚀 Getting Started
 
-
-📥 2. Install dependencies
-```bash
-npm install
-
-
-▶️ 3. Start the development server
-```bash
-npm run dev
-
-
-🌐 4. Open in your browser
-```bash
-http://localhost:5173
-🖥️ Previews
-Desktop View	Mobile View
-	
-
-🎥 Demo Video
-📽️ Watch it in action — feel the interaction, movement, and polish. Ready to be yours.
-
-👤 Author
-Made with 💜 by Bhumika
-🌐 yourportfolio.com
-🐙 GitHub • 💼 LinkedIn
-
 ### 📦 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/bytefolio.git
 cd bytefolio
+```
+
+### 📥 2. Install dependencies
+
+```bash
+npm install
+```
+
+### ▶️ 3. Start the development server
+
+```bash
+npm run dev
+```
+
+### 🌐 4. Open in your browser
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## 🖥️ Previews
+
+| Desktop View                                                | Mobile View                                               |
+| ----------------------------------------------------------- | --------------------------------------------------------- |
+| ![Desktop](https://your-image-link.com/desktop-preview.png) | ![Mobile](https://your-image-link.com/mobile-preview.png) |
+
+---
+
+## 🎥 Demo Video
+
+📽️ [**Watch it in action**](https://your-demo-video-link.com) — feel the interaction, movement, and polish. Ready to be yours.
+
+---
+
+## 👤 Author
+
+Made with 💜 by **Bhumika**  
+🌐 [yourportfolio.com](https://yourportfolio.com)  
+🐙 [GitHub](https://github.com/your-username) • 💼 [LinkedIn](https://linkedin.com/in/your-username)
