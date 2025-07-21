@@ -79,20 +79,20 @@ Perfect for:
 ---
 
 ## 🚀 Getting Started
+
+
 📥 2. Install dependencies
-bash
-Copy
-Edit
+```bash
 npm install
+
+
 ▶️ 3. Start the development server
-bash
-Copy
-Edit
+```bash
 npm run dev
+
+
 🌐 4. Open in your browser
-bash
-Copy
-Edit
+```bash
 http://localhost:5173
 🖥️ Previews
 Desktop View	Mobile View
